@@ -12,7 +12,7 @@ The app is built with Python and Tkinter. It supports **Sign in with Plex**, aut
 
 ## But why?
 
-Plex is buggy, or their team simply doesn't have the time for this feature. Tthere have been numerous reports of users being unable to migrate playlists form iTunes to Plex. Many users have followed various posts describign the potential method of achieving this, but with no success. I am one of those users. 
+Plex is buggy, or their team simply doesn't have the time for this feature. There have been numerous reports of users being unable to migrate playlists from iTunes to Plex. Many users have followed various posts describing the potential method of achieving this, but with no success. I am one of those users. 
 
 ## Features
 
