@@ -6,7 +6,7 @@ The app is built with Python and Tkinter. It supports **Sign in with Plex**, aut
 
 > **Important:** This tool imports **playlists**, not audio files. Your music must already be indexed in a Plex music library. Start with **Dry Run** and inspect the report before selecting **Apply**.
 
-→ [Download the latest Windows release](https://github.com/USERNAME/REPOSITORY/releases/latest)
+→ [Download the latest Windows release](https://github.com/seanpierce/iTunesPlexImporter/releases/tag/1.0.0)
 
 <img src="gui-image.png">
 
